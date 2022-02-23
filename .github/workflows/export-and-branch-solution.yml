@@ -26,8 +26,8 @@ on:
 
 env:
 #edit your values here
-  ENVIRONMENT_URL: https://org03adada4.crm5.dynamics.com/
-  USERNAME: admin@M365x315853.onmicrost.com
+  ENVIRONMENT_URL: 'https://org03adada4.crm5.dynamics.com/'
+  USERNAME: 'admin@M365x315853.onmicrost.com'
 
 
 jobs:
